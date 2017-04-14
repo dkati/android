@@ -1,3 +1,3 @@
 
-    repo init -u git://github.com/omnirom/android.git -b android-7.1
+    repo init -u git://github.com/dkati/omni-jf.git -b android-7.1
 
