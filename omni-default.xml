@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  
+   <remote  name="github"
+fetch="https://github.com/" />
+  
   <!-- FIRST: Remove unused/forked AOSP Projects -->
   <include name="remove.xml" />
 
