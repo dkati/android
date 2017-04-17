@@ -41,6 +41,7 @@
   <project path="hardware/qcom/media-caf/msm8960" name="LineageOS/android_hardware_qcom_media" remote="github" revision="cm-14.1-caf-8960" />
   <project path="hardware/qcom/camera" name="LineageOS/android_hardware_qcom_camera" groups="qcom" remote="github" revision="cm-14.1" />
   <project path="hardware/qcom/gps" name="LineageOS/android_hardware_qcom_gps" groups="qcom,qcom_gps" remote="github" revision="cm-14.1"/>
+  <project path="hardware/qcom/wlan-caf" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan" remote="github" revision="cm-14.1-caf" />
   
   <project path="kernel/samsung/jf" name="LineageOS/android_kernel_samsung_jf" remote="github" revision="cm-14.1" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1"/>
