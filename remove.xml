@@ -41,8 +41,6 @@
   <remove-project name="platform/frameworks/webview" />
   <remove-project name="platform/frameworks/wilhelm" />
 
-  <remove-project name="platform/libcore" />
-
   <remove-project name="platform/packages/apps/Bluetooth" />
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/Camera2" />
