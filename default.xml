@@ -315,7 +315,7 @@
 
   <project path="hardware/bsp/intel" name="platform/hardware/bsp/intel" />
  
-  <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
+
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt" />
