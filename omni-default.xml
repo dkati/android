@@ -61,6 +61,16 @@
   <project path="hardware/qcom/wlan-caf" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan" remote="github" revision="cm-14.1-caf" />
 
   
+    <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="github" revision="cm-14.1" />
+  <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="github" revision="cm-14.1" />
+  <project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" remote="github" revision="cm-14.1" />
+  <project path="vendor/qcom/opensource/bluetooth" name="LineageOS/android_vendor_qcom_opensource_bluetooth" remote="github" revision="cm-14.1" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" remote="github" revision="cm-14.1" />
+  <project path="vendor/qcom/opensource/dataservices/" name="LineageOS/android_vendor_qcom_opensource_dataservices" remote="github" revision="cm-14.1"/>
+  <project path="vendor/qcom/opensource/dpm/" name="LineageOS/android_vendor_qcom_opensource_dpm" remote="github" revision="cm-14.1"/>
+  <project path="vendor/qcom/opensource/time-services/" name="LineageOS/android_vendor_qcom_opensource_time-services" remote="github" revision="cm-14.1"/>
+
+  
   <project path="kernel/samsung/jf" name="LineageOS/android_kernel_samsung_jf" remote="github" revision="cm-14.1" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1"/>
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="github" revision="cm-14.1"/>
