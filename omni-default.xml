@@ -36,9 +36,9 @@
   <!--jf-->
   <!--manually handling the tree and blobs-->
   
-  <project path="hardware/qcom/audio-caf/msm8960" name="LineageOS/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="cm-14.1-caf-8960" />
-  <project path="hardware/qcom/display-caf/msm8960" name="LineageOS/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="cm-14.1-caf-8960" />
-  <project path="hardware/qcom/media-caf/msm8960" name="LineageOS/android_hardware_qcom_media" groups="qcom" revision="cm-14.1-caf-8960" />
+  <project path="hardware/qcom/audio-caf/msm8960" name="LineageOS/android_hardware_qcom_audio" remote="github"  revision="cm-14.1-caf-8960" />
+  <project path="hardware/qcom/display-caf/msm8960" name="LineageOS/android_hardware_qcom_display" remote="github" revision="cm-14.1-caf-8960" />
+  <project path="hardware/qcom/media-caf/msm8960" name="LineageOS/android_hardware_qcom_media" remote="github" revision="cm-14.1-caf-8960" />
   
   <project path="kernel/samsung/jf" name="LineageOS/android_kernel_samsung_jf" remote="github" revision="cm-14.1" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1"/>
